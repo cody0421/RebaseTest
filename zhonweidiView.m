@@ -24,4 +24,12 @@
     NSLog(@"我是C3分支");
 }
 
+- (void)c3AndC3{
+    NSLog(@"就是C3");
+}
+
+- (void)c3Orc3{
+    NSLog(@"C3报道");
+}
+
 @end
