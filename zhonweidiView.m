@@ -20,8 +20,8 @@
 }
 */
 
-- (void)c3{
-    NSLog(@"我是C3分支");
+- (void)c1{
+    NSLog(@"C1 is ok!");
 }
 
 - (void)c3AndC3{
