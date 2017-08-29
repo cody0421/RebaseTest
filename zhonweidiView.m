@@ -32,4 +32,8 @@
     NSLog(@"C3报道");
 }
 
+- (void)c1{
+    NSLog(@"C1 is ok!");
+}
+
 @end
