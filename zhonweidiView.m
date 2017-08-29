@@ -19,4 +19,8 @@
 }
 */
 
+- (void)c1{
+    NSLog(@"C1 is ok!");
+}
+
 @end
