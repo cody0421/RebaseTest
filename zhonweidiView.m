@@ -34,4 +34,11 @@
 
 
 
+//我现在在C1分支上进行工作
+- (void)c1ShowTitle{
+    UILabel * label = [UILabel new];
+    label.text = @"合并后的事情";
+}
+
+
 @end
